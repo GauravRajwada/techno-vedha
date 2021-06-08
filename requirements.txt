@@ -3,7 +3,6 @@ appdirs==1.4.4
 argh==0.26.2
 arrow==0.13.1
 async-generator==1.10
-atomicwrites==1.4.0
 dataclasses==0.8
 entrypoints==0.3
 Flask==2.0.0
