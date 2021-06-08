@@ -1,6 +1,4 @@
 
-dataclasses==0.8
-entrypoints==0.3
 Flask==2.0.0
 Flask-Cors==3.0.10
 future==0.18.2
