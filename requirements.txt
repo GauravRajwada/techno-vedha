@@ -1,5 +1,4 @@
 
-appdirs==1.4.4
 dataclasses==0.8
 entrypoints==0.3
 Flask==2.0.0
